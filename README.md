@@ -42,6 +42,4 @@ You can learn more about the movie here:
 
 [Inside Out 2 - IMDb](https://www.imdb.com/title/tt22022452/)
 
----
 
-*Created by: My GitHub Account*
